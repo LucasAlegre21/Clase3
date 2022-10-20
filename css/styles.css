@@ -4,6 +4,7 @@ body {
 }
 
 header {
+  padding-top: 10px;
   font-family: "Old Standard TT", serif;
   color: goldenrod;
   text-align: center;
@@ -66,4 +67,9 @@ input {
   text-align: center;
   color: white;
   padding: 15px;
+}
+
+audio {
+  width: 250px;
+  height: 20px;
 }
