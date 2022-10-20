@@ -21,7 +21,6 @@ p {
 
 nav {
   text-align: center;
-  
 }
 
 li {
@@ -49,10 +48,6 @@ footer {
 
 input {
   background-color: goldenrod;
-  }
-
-form label {
-  color: white;
 }
 
 #discoCentrado {
@@ -62,7 +57,13 @@ form label {
   padding-top: 40px;
 }
 
-.cd{
+.cd {
   padding-right: 20px;
   padding-left: 20px;
-  }
+}
+
+#formulario1 {
+  text-align: center;
+  color: white;
+  padding: 15px;
+}
